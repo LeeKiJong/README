@@ -13,7 +13,7 @@ Apmsetup(Mysql) - P1
 ## 주제
 HomePage - P1, P4  
 ChordNode - P3  
-P2p - P3  
+P2P - P3  
 Network - P3  
 Socket - P2  
 Chatting_Server - P2  
