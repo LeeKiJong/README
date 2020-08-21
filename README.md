@@ -15,7 +15,7 @@ AJax - P7
 ## 사용 프로그램
 Flask - P4  
 Apmsetup(Mysql) - P1  
-Apache-Tomcat - P5
+Apache-Tomcat - P5, P6, P7
 SQL Developer(Oracle DB) - P5, P7
 
 ## 주제
