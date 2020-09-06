@@ -11,6 +11,7 @@ JAVASCRIPT - P5
 JSP - P5, P6, P7
 Servlet - P5, P6, P7
 AJax - P7
+jQuery - P7
 
 ## 사용 프로그램
 Flask - P4  
