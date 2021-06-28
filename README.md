@@ -21,7 +21,8 @@ SQL Developer(Oracle DB) - P5, P7
 Jupyter - P8
 
 ## 주제
-Deeplearning - P8
+Deeplearning - P8  
+firebase - P8  
 HomePage - P1, P4, P5, P6, P7  
 Shopping - P7  
 ChordNode - P3  
