@@ -5,7 +5,7 @@ C - P2, P3
 DB(SQL) - P1, P5, P6, P7  
 PHP - P1  
 HTML - P1, P4, P5, P7  
-Python - P4  
+Python - P4, P8  
 JAVA - P5, P6, P7  
 JAVASCRIPT - P5, P7  
 JSP - P5, P6, P7  
@@ -18,8 +18,10 @@ Flask - P4
 Apmsetup(Mysql) - P1  
 Apache-Tomcat - P5, P6, P7  
 SQL Developer(Oracle DB) - P5, P7  
+Jupyter - P8
 
 ## 주제
+Deeplearning - P8
 HomePage - P1, P4, P5, P6, P7  
 Shopping - P7  
 ChordNode - P3  
