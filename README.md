@@ -1,5 +1,5 @@
 # README
-
+노션 : https://www.notion.so/2dc61a6ac08d449d96240f26ddf4b272
 ## 사용 언어
 C - P2, P3  
 DB(SQL) - P1, P5, P6, P7  
